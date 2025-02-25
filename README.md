@@ -1,13 +1,14 @@
-# GameAuth
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The DriverPass project was designed to provide a digital platform that helps users prepare for their driving exams. The client needed an interactive learning system that offered practice tests, instructional content, and progress tracking. The goal was to create a user-friendly and scalable system that enhances the learning experience while ensuring accessibility and efficiency.
 
-How to start the GameAuth application
----
+What did you do particularly well?
+One of my key strengths in this project was defining the system requirements clearly and ensuring they aligned with both business and user needs. I also structured the system components logically, making it easier to integrate different functionalities seamlessly. Additionally, I maintained detailed documentation that effectively communicated the design and implementation plans.
 
-1. Run `mvn clean install` to build your application
-1. Start application with `java -jar target/gameauth-0.0.1-SNAPSHOT.jar server config.yml`
-1. To check that your application is running enter url `http://localhost:8080`
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I had the chance to revise one aspect of my work, I would focus on refining the user interface design. While the system met the functional requirements, incorporating additional user feedback could improve accessibility and engagement. Enhancing the UI with a more intuitive layout and better navigation would lead to a more seamless user experience.
 
-Health Check
----
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+To interpret the user’s needs, I analyzed the common challenges individuals face when preparing for their driving exams, such as difficulty retaining information, lack of structured study plans, and test anxiety. Based on these insights, I designed a system that incorporated interactive learning modules, personalized progress tracking, and realistic practice tests to enhance comprehension and retention. Additionally, I ensured the interface was intuitive and easy to navigate, reducing frustration for users of all experience levels. Considering user needs is essential in software design because it directly impacts usability, engagement, and overall satisfaction. A well-designed system improves learning outcomes, increases adoption rates, and ensures the application remains relevant and effective for its intended audience.
 
-To see your applications health enter url `http://localhost:8081/healthcheck`
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+My approach to software design involves a combination of agile methodologies, iterative development, and user-centered design strategies. I prioritize gathering detailed requirements, creating wireframes and prototypes, and continuously refining the system based on feedback. In the future, I will continue using modular architecture to ensure scalability and maintainability while incorporating usability testing to enhance user satisfaction.
